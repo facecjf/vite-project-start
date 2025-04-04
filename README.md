@@ -4,6 +4,9 @@ npm install
 npm run dev
 ```
 
+---
+
+```
 ## Folder Structure
 
 gd-project-start
@@ -18,3 +21,4 @@ gd-project-start
    ├─ javascript.svg
    ├─ main.js
    └─ style.css
+```
