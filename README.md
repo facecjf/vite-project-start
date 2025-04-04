@@ -1,2 +1,5 @@
 # gd-project-start
- boilerplate javascript gamedev using babylon.js
+```
+npm install
+npm run dev
+```
